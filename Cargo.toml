@@ -1,8 +1,10 @@
 [package]
-name = "satellites"
+name = "natural_satellites_visualiser"
 version = "0.1.0"
-authors = ["zggff <gigamaximwachau@gmail.com>"]
-edition = "2018"
+authors = ["zggff<gigamaximwachau@gmail.com>"]
+edition = "2021"
+repository = "https://github.com/zggff/natural_satellites_visualiser"
+rpage = "https://github.com/zggff/natural_satellites_visualiser"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
