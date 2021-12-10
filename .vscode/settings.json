@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": false,
+    "rust-analyzer.diagnostics.disabled": ["unresolved-import"]
+}
